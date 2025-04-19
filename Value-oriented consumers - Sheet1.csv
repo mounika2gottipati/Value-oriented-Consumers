@@ -1,0 +1,501 @@
+Age,Location,Occupation,Cost_Sensitivity,Fuel_Efficiency_Importance,Aware_Govt_Incentives,Prefers_EV,EV_Maintenance_Cost_Awareness,ICE_Total_Cost,EV_Total_Cost
+59,Urban,Business Owner,4,1,Yes,No,1,673687,617351
+49,Urban,Business Owner,2,1,Yes,No,1,769416,653125
+35,Urban,Working Professional,4,1,Yes,Yes,3,680748,684465
+28,Semi-Urban,Student,5,2,Yes,Yes,2,719149,655562
+41,Urban,Working Professional,2,2,Yes,Yes,3,707062,586920
+59,Rural,Working Professional,3,3,Yes,Yes,2,593471,617887
+39,Urban,Working Professional,3,1,Yes,Yes,2,738410,647041
+43,Urban,Working Professional,2,4,Yes,Yes,4,710769,646973
+31,Urban,Working Professional,1,4,Yes,Yes,3,725413,728901
+31,Semi-Urban,Business Owner,2,1,No,No,4,896311,594560
+44,Semi-Urban,Retired,5,1,Yes,Yes,2,595794,670223
+56,Urban,Working Professional,1,1,No,Yes,1,786234,709564
+44,Urban,Working Professional,3,2,No,No,2,685627,740857
+23,Semi-Urban,Working Professional,2,2,Yes,No,4,714366,633824
+42,Urban,Student,4,2,Yes,No,3,697724,669657
+22,Rural,Retired,4,5,No,No,3,678788,672790
+44,Semi-Urban,Working Professional,5,4,Yes,Yes,4,671508,657819
+50,Urban,Working Professional,4,4,Yes,No,3,716475,646046
+58,Urban,Working Professional,2,3,Yes,Yes,5,624141,667439
+22,Rural,Working Professional,2,2,No,Yes,1,737528,548710
+41,Urban,Working Professional,4,5,Yes,Yes,1,679190,677282
+53,Urban,Business Owner,2,5,Yes,Yes,1,643496,655047
+32,Rural,Working Professional,5,4,No,Yes,3,677499,641101
+42,Rural,Student,1,2,No,No,3,762857,731874
+45,Rural,Working Professional,5,3,Yes,No,2,673233,623002
+47,Semi-Urban,Retired,5,2,Yes,Yes,2,717922,633876
+48,Urban,Business Owner,2,1,No,Yes,1,663452,729662
+36,Urban,Working Professional,1,2,Yes,No,5,737896,616717
+35,Semi-Urban,Working Professional,2,1,Yes,No,2,734275,627995
+23,Semi-Urban,Working Professional,3,1,Yes,Yes,2,792430,644118
+57,Urban,Working Professional,2,3,No,No,3,691221,683629
+27,Rural,Retired,2,4,Yes,Yes,5,733432,658312
+41,Urban,Working Professional,2,2,No,Yes,1,704903,598294
+29,Urban,Working Professional,1,1,No,No,2,764793,628713
+59,Urban,Working Professional,2,2,Yes,Yes,5,664058,625705
+38,Urban,Student,1,4,Yes,Yes,5,737250,646911
+24,Urban,Working Professional,4,4,Yes,No,1,690265,667033
+45,Urban,Business Owner,3,5,Yes,No,5,696790,666728
+34,Urban,Student,1,4,Yes,Yes,5,704587,578959
+29,Semi-Urban,Working Professional,4,3,No,Yes,5,712612,692557
+46,Semi-Urban,Working Professional,1,1,Yes,Yes,2,694188,660102
+22,Semi-Urban,Working Professional,1,5,No,No,1,710735,705381
+40,Rural,Working Professional,3,3,Yes,Yes,5,778905,667767
+48,Urban,Working Professional,5,2,Yes,Yes,5,749272,694052
+27,Urban,Business Owner,5,1,Yes,No,2,743457,668661
+28,Rural,Working Professional,1,4,Yes,Yes,1,677223,703849
+55,Urban,Working Professional,2,1,No,Yes,3,655537,670890
+34,Rural,Working Professional,4,2,Yes,Yes,2,747765,646083
+37,Urban,Working Professional,2,5,Yes,No,1,743802,740897
+56,Rural,Retired,2,5,Yes,Yes,5,773633,685561
+24,Urban,Business Owner,1,5,Yes,Yes,1,669800,672949
+22,Rural,Working Professional,1,4,Yes,No,1,688522,598947
+26,Semi-Urban,Student,1,3,Yes,Yes,1,618025,598467
+24,Rural,Working Professional,1,3,No,Yes,3,680376,661708
+49,Urban,Working Professional,5,1,Yes,Yes,1,749828,655820
+38,Semi-Urban,Student,1,4,No,Yes,3,676675,625435
+46,Rural,Working Professional,5,5,Yes,Yes,5,732023,655639
+54,Semi-Urban,Working Professional,5,5,Yes,Yes,3,690474,713545
+30,Semi-Urban,Working Professional,1,2,Yes,Yes,5,716202,677816
+56,Semi-Urban,Business Owner,3,2,Yes,Yes,5,642615,604359
+34,Urban,Working Professional,4,5,Yes,No,3,704260,645539
+51,Semi-Urban,Student,2,5,Yes,No,2,550443,617801
+35,Semi-Urban,Business Owner,5,4,Yes,No,4,690655,634492
+28,Rural,Working Professional,4,3,Yes,No,1,618476,633455
+34,Urban,Working Professional,3,2,Yes,Yes,4,760299,630894
+43,Urban,Working Professional,2,3,No,No,1,738870,599794
+41,Rural,Working Professional,2,4,Yes,Yes,1,723333,644893
+36,Rural,Business Owner,5,5,Yes,No,5,776050,627575
+38,Urban,Business Owner,1,3,Yes,No,1,652554,532822
+44,Semi-Urban,Working Professional,3,5,Yes,No,1,787368,732118
+46,Urban,Working Professional,5,5,Yes,No,3,746609,693550
+45,Urban,Working Professional,3,1,Yes,Yes,4,688172,634947
+49,Urban,Working Professional,1,3,Yes,Yes,3,756781,650752
+35,Urban,Student,1,3,Yes,Yes,1,644685,603133
+21,Semi-Urban,Retired,5,5,Yes,Yes,5,658774,717828
+45,Urban,Working Professional,1,4,Yes,Yes,3,669570,725891
+27,Rural,Retired,4,1,Yes,No,3,673551,656267
+29,Rural,Working Professional,2,5,Yes,No,2,647172,690941
+44,Semi-Urban,Working Professional,5,2,Yes,Yes,1,761154,657011
+21,Semi-Urban,Working Professional,3,2,No,No,5,687057,596530
+28,Urban,Business Owner,4,1,Yes,No,3,717625,633527
+44,Rural,Business Owner,5,4,Yes,No,3,671482,655277
+31,Semi-Urban,Business Owner,1,5,Yes,No,5,608969,631818
+37,Urban,Working Professional,1,3,No,Yes,1,713502,641253
+28,Rural,Working Professional,1,1,Yes,No,2,604387,646344
+55,Rural,Business Owner,1,4,Yes,No,3,696568,646764
+55,Rural,Working Professional,3,3,Yes,Yes,2,631584,652090
+53,Semi-Urban,Working Professional,4,2,Yes,Yes,4,799363,607575
+25,Semi-Urban,Working Professional,2,2,Yes,No,1,745568,621319
+59,Urban,Retired,3,3,Yes,Yes,4,705287,598616
+48,Rural,Retired,3,1,No,No,4,763185,689112
+27,Rural,Student,2,2,Yes,No,4,657684,565774
+29,Urban,Business Owner,2,5,No,Yes,1,727173,696143
+28,Urban,Retired,1,3,No,Yes,1,709990,705453
+32,Urban,Working Professional,3,3,Yes,No,5,713201,637912
+54,Rural,Working Professional,5,2,Yes,Yes,2,763617,545874
+53,Rural,Retired,2,1,Yes,Yes,2,736624,635547
+43,Urban,Student,2,5,Yes,Yes,5,714436,647432
+44,Semi-Urban,Working Professional,4,1,Yes,Yes,5,617255,609576
+57,Urban,Working Professional,5,4,No,No,4,651997,629391
+55,Rural,Retired,5,4,No,Yes,5,693864,711207
+42,Rural,Retired,2,2,Yes,No,3,704668,676597
+47,Rural,Retired,1,2,Yes,Yes,2,643489,613017
+55,Urban,Working Professional,4,2,No,Yes,5,820583,586096
+21,Urban,Business Owner,5,4,No,No,3,775819,636919
+55,Urban,Business Owner,2,1,No,No,3,730105,641461
+57,Urban,Working Professional,5,1,Yes,Yes,3,703601,669847
+34,Rural,Business Owner,4,2,Yes,Yes,3,689389,628587
+23,Rural,Student,4,5,Yes,Yes,4,652404,670459
+21,Rural,Working Professional,3,1,Yes,Yes,3,703874,727406
+25,Rural,Working Professional,2,4,Yes,No,4,712887,682620
+46,Semi-Urban,Working Professional,4,3,Yes,Yes,4,637911,648076
+34,Semi-Urban,Student,3,3,Yes,Yes,3,716708,642673
+59,Rural,Working Professional,3,3,Yes,Yes,2,692237,635733
+47,Rural,Working Professional,5,5,Yes,No,3,604609,697225
+29,Urban,Business Owner,5,2,Yes,No,3,656980,624907
+35,Urban,Student,3,4,Yes,Yes,3,679319,651808
+35,Urban,Working Professional,5,5,Yes,No,2,794384,652047
+46,Rural,Working Professional,4,4,Yes,Yes,1,727827,629928
+33,Semi-Urban,Business Owner,1,4,No,Yes,1,633225,595101
+52,Urban,Working Professional,4,2,Yes,No,4,724301,662918
+59,Semi-Urban,Working Professional,3,3,Yes,No,4,622634,647559
+52,Semi-Urban,Business Owner,3,2,Yes,No,2,754134,670009
+24,Urban,Working Professional,4,5,No,Yes,5,676443,628655
+50,Urban,Working Professional,5,5,Yes,Yes,1,695318,698832
+57,Semi-Urban,Student,5,5,Yes,No,4,766289,614929
+43,Semi-Urban,Business Owner,3,2,Yes,Yes,1,635641,718481
+59,Semi-Urban,Student,2,4,Yes,Yes,2,630144,580094
+35,Semi-Urban,Business Owner,5,4,Yes,Yes,2,670820,667390
+49,Rural,Working Professional,4,1,Yes,No,5,751918,669017
+56,Semi-Urban,Retired,5,5,No,Yes,5,624032,618177
+33,Semi-Urban,Business Owner,4,4,Yes,Yes,2,558392,666975
+52,Rural,Retired,3,1,No,No,4,677442,701180
+27,Urban,Working Professional,5,4,No,Yes,1,727587,561327
+42,Urban,Business Owner,4,5,Yes,Yes,3,760013,670109
+48,Urban,Working Professional,3,3,No,Yes,5,676841,550269
+22,Semi-Urban,Working Professional,2,5,Yes,Yes,3,679428,611373
+26,Semi-Urban,Working Professional,4,2,Yes,Yes,4,757695,715166
+48,Semi-Urban,Business Owner,2,4,Yes,Yes,5,606512,626728
+48,Urban,Retired,2,4,Yes,No,3,680573,603044
+40,Urban,Business Owner,1,2,Yes,Yes,4,709521,642082
+50,Urban,Working Professional,5,2,Yes,No,1,722460,732716
+31,Urban,Working Professional,4,3,Yes,Yes,4,674509,576732
+48,Semi-Urban,Business Owner,2,4,Yes,Yes,5,701722,607947
+45,Urban,Working Professional,1,4,Yes,Yes,2,575583,709897
+59,Urban,Working Professional,3,3,Yes,Yes,1,667087,724308
+53,Rural,Working Professional,4,1,Yes,No,3,722675,645862
+21,Urban,Working Professional,2,3,Yes,Yes,5,650885,600437
+47,Semi-Urban,Working Professional,5,5,No,Yes,2,702949,733833
+33,Semi-Urban,Working Professional,1,4,Yes,No,4,722343,713777
+23,Urban,Student,2,2,No,No,2,682872,677157
+59,Semi-Urban,Student,5,5,Yes,No,5,708523,617503
+26,Rural,Retired,2,4,Yes,Yes,5,651863,648038
+28,Rural,Working Professional,4,3,Yes,No,2,689669,643585
+47,Urban,Working Professional,4,5,Yes,Yes,4,730510,663234
+29,Rural,Working Professional,4,4,Yes,Yes,2,707848,708040
+57,Urban,Working Professional,1,1,No,Yes,5,670673,685176
+53,Urban,Retired,4,1,Yes,Yes,5,711210,606904
+44,Urban,Business Owner,5,2,No,Yes,3,735730,705059
+35,Rural,Student,2,4,No,Yes,3,597502,662525
+52,Urban,Working Professional,3,1,No,No,1,757953,677482
+52,Urban,Business Owner,5,3,No,Yes,5,683187,708661
+44,Semi-Urban,Retired,5,4,Yes,Yes,3,721274,605536
+32,Urban,Working Professional,4,3,Yes,Yes,2,759862,648566
+59,Urban,Working Professional,1,3,Yes,No,4,631416,628741
+22,Urban,Working Professional,2,1,Yes,Yes,2,664527,587285
+23,Urban,Retired,1,4,Yes,Yes,4,685572,663868
+57,Urban,Working Professional,2,5,No,No,3,660812,750462
+37,Urban,Retired,2,1,Yes,No,1,786746,576396
+22,Semi-Urban,Working Professional,1,1,Yes,Yes,2,657161,648708
+22,Urban,Working Professional,5,4,Yes,No,2,672222,675621
+48,Urban,Working Professional,2,4,Yes,No,2,710219,654923
+43,Rural,Working Professional,1,3,Yes,No,4,639892,645474
+57,Urban,Working Professional,2,4,No,Yes,3,680215,598031
+52,Semi-Urban,Working Professional,3,3,Yes,No,2,715872,659311
+53,Urban,Working Professional,5,1,Yes,Yes,2,683356,619729
+21,Urban,Business Owner,4,2,Yes,Yes,1,695330,562403
+39,Urban,Working Professional,2,5,Yes,Yes,1,673533,697783
+22,Urban,Student,3,1,Yes,Yes,3,624276,688335
+46,Urban,Retired,4,4,Yes,Yes,3,716079,652066
+52,Urban,Business Owner,4,5,Yes,No,5,787746,659162
+26,Urban,Retired,2,2,Yes,Yes,1,700920,692972
+52,Urban,Retired,1,2,Yes,Yes,5,711263,658973
+24,Urban,Working Professional,2,3,Yes,Yes,4,734636,686160
+31,Urban,Working Professional,3,5,Yes,Yes,5,636533,638100
+37,Urban,Business Owner,4,3,Yes,No,2,785125,702479
+58,Semi-Urban,Working Professional,2,1,Yes,Yes,5,710116,662831
+44,Semi-Urban,Working Professional,1,5,No,Yes,3,781592,657762
+25,Urban,Business Owner,2,1,Yes,Yes,4,663348,599197
+54,Semi-Urban,Working Professional,5,3,Yes,Yes,2,790903,661478
+26,Semi-Urban,Working Professional,1,5,Yes,Yes,5,738757,616721
+42,Urban,Working Professional,3,3,Yes,No,4,727652,624468
+31,Rural,Working Professional,4,5,Yes,No,4,711701,617384
+36,Rural,Working Professional,2,3,Yes,Yes,2,687573,607350
+53,Urban,Student,1,2,No,No,5,760026,734990
+29,Urban,Business Owner,5,3,Yes,No,4,707017,703253
+26,Rural,Working Professional,1,2,Yes,No,4,601646,726814
+36,Semi-Urban,Working Professional,5,3,Yes,Yes,1,644140,601084
+49,Urban,Business Owner,3,5,Yes,Yes,4,690707,652850
+23,Urban,Retired,4,5,Yes,Yes,1,715499,598259
+40,Urban,Business Owner,3,5,Yes,No,5,697170,622172
+56,Urban,Business Owner,2,4,No,No,5,760948,613274
+39,Semi-Urban,Working Professional,1,1,Yes,Yes,5,602444,699583
+46,Urban,Working Professional,5,5,Yes,Yes,3,707179,634150
+23,Urban,Student,5,2,No,No,5,609101,692735
+39,Semi-Urban,Working Professional,1,5,Yes,No,4,737985,674164
+40,Urban,Working Professional,1,4,No,No,2,695277,742145
+52,Urban,Working Professional,2,2,Yes,No,1,720980,590822
+27,Semi-Urban,Business Owner,3,4,No,Yes,3,656805,700369
+53,Rural,Working Professional,5,2,Yes,Yes,5,763973,695857
+59,Semi-Urban,Student,2,3,No,No,5,752086,611064
+38,Semi-Urban,Working Professional,3,1,No,Yes,2,729177,690285
+21,Urban,Working Professional,2,1,Yes,Yes,2,693524,663445
+31,Urban,Student,5,4,No,No,3,728992,640900
+48,Semi-Urban,Business Owner,1,1,Yes,Yes,1,664655,617042
+45,Urban,Working Professional,1,4,Yes,No,5,742777,621235
+43,Urban,Working Professional,3,4,Yes,Yes,3,782474,731992
+51,Urban,Working Professional,4,4,Yes,No,4,753530,650027
+50,Urban,Business Owner,3,1,Yes,Yes,4,663519,681285
+55,Urban,Working Professional,4,4,Yes,Yes,3,718070,618364
+27,Urban,Working Professional,2,1,Yes,No,5,635342,618805
+36,Urban,Working Professional,2,4,No,Yes,3,728619,693279
+46,Urban,Working Professional,5,5,No,No,5,722530,596016
+22,Rural,Business Owner,4,4,Yes,No,2,606509,633391
+21,Semi-Urban,Business Owner,5,2,Yes,Yes,3,641910,651361
+32,Semi-Urban,Working Professional,1,4,Yes,Yes,5,685843,654454
+25,Semi-Urban,Business Owner,4,3,Yes,Yes,3,684957,642836
+57,Urban,Business Owner,3,4,Yes,Yes,3,639526,665832
+52,Urban,Business Owner,1,2,Yes,No,5,719448,677714
+29,Semi-Urban,Business Owner,1,2,Yes,No,5,712573,679385
+55,Semi-Urban,Working Professional,3,1,No,No,1,690286,610567
+39,Semi-Urban,Working Professional,1,5,Yes,No,3,662210,638633
+36,Urban,Working Professional,4,4,Yes,Yes,4,752435,697790
+23,Urban,Business Owner,5,1,Yes,No,3,782770,685785
+40,Urban,Working Professional,1,5,Yes,No,3,675821,595085
+44,Urban,Business Owner,4,4,Yes,No,5,669391,664059
+53,Semi-Urban,Business Owner,2,3,Yes,No,3,724560,570870
+44,Semi-Urban,Student,4,4,Yes,Yes,3,682098,651877
+31,Urban,Business Owner,5,2,Yes,No,4,693030,725910
+28,Rural,Working Professional,4,2,No,Yes,5,736982,612084
+56,Semi-Urban,Working Professional,3,3,No,Yes,3,604532,616627
+58,Urban,Business Owner,5,1,Yes,Yes,2,765915,680561
+40,Urban,Working Professional,2,5,Yes,No,1,703634,588287
+55,Urban,Business Owner,3,4,Yes,No,4,679425,624689
+45,Urban,Business Owner,4,2,Yes,No,3,695538,673857
+55,Urban,Working Professional,5,1,Yes,No,2,698121,624628
+45,Urban,Student,2,3,Yes,Yes,3,613439,640561
+49,Urban,Working Professional,3,2,Yes,No,3,774746,679767
+38,Urban,Working Professional,2,3,Yes,Yes,5,702066,666861
+38,Rural,Retired,4,4,Yes,Yes,5,722150,660672
+22,Urban,Working Professional,2,5,No,Yes,5,747577,636435
+55,Semi-Urban,Working Professional,1,2,No,No,2,648941,664802
+36,Urban,Working Professional,3,2,No,No,3,723673,645050
+56,Rural,Working Professional,2,4,Yes,Yes,1,686617,668312
+53,Urban,Business Owner,4,1,No,Yes,4,742338,630122
+24,Urban,Working Professional,4,5,Yes,No,5,593638,642697
+53,Rural,Business Owner,2,2,No,Yes,5,695045,610401
+34,Rural,Working Professional,4,5,Yes,No,3,669858,648599
+41,Rural,Retired,5,2,No,No,3,721613,617559
+40,Urban,Working Professional,5,5,Yes,Yes,2,723502,605438
+28,Urban,Working Professional,5,3,No,Yes,2,664618,660346
+27,Semi-Urban,Retired,1,2,No,No,5,664391,658509
+23,Rural,Working Professional,2,5,Yes,No,3,694466,681314
+37,Semi-Urban,Retired,1,1,Yes,Yes,1,655167,632754
+53,Semi-Urban,Working Professional,4,3,No,No,4,742099,666322
+32,Urban,Student,1,3,Yes,Yes,3,681539,672031
+42,Semi-Urban,Working Professional,4,1,No,Yes,3,554650,667790
+42,Urban,Business Owner,4,5,Yes,No,2,681258,616973
+50,Urban,Student,3,4,Yes,No,4,648072,655974
+58,Urban,Working Professional,5,1,Yes,Yes,5,618436,664565
+58,Semi-Urban,Working Professional,4,5,Yes,No,3,638128,650287
+28,Urban,Working Professional,3,1,No,Yes,5,705470,566540
+47,Urban,Student,5,1,Yes,Yes,3,766432,656419
+47,Semi-Urban,Business Owner,4,2,Yes,Yes,5,715659,738501
+54,Urban,Retired,4,5,Yes,No,4,669674,635598
+41,Semi-Urban,Retired,1,4,Yes,Yes,2,722795,620876
+50,Urban,Business Owner,1,2,No,Yes,4,677045,664933
+53,Urban,Working Professional,5,1,No,Yes,1,665269,662495
+48,Semi-Urban,Business Owner,4,1,Yes,No,2,642281,697709
+53,Urban,Student,2,1,No,No,4,612408,599685
+25,Urban,Student,1,5,No,No,1,680503,679255
+39,Urban,Working Professional,5,5,Yes,Yes,3,707902,673616
+24,Urban,Working Professional,4,2,No,No,3,695168,644314
+55,Rural,Business Owner,4,4,Yes,Yes,5,679201,663547
+37,Urban,Working Professional,2,2,Yes,No,2,652712,691178
+48,Rural,Working Professional,5,3,No,No,3,730412,684892
+50,Urban,Working Professional,4,1,Yes,Yes,2,634143,604279
+49,Semi-Urban,Retired,1,1,No,No,3,738801,682806
+26,Semi-Urban,Working Professional,2,1,No,Yes,5,649889,647412
+55,Semi-Urban,Working Professional,5,2,Yes,Yes,4,662378,652914
+57,Urban,Working Professional,2,2,No,Yes,5,626660,652927
+44,Urban,Business Owner,1,1,Yes,Yes,1,674929,643990
+49,Urban,Working Professional,5,2,Yes,Yes,3,748765,697668
+51,Rural,Working Professional,2,5,Yes,No,1,725781,646651
+55,Rural,Student,3,5,No,Yes,1,748921,605218
+53,Rural,Working Professional,1,2,Yes,No,2,726107,634258
+41,Urban,Working Professional,1,1,Yes,Yes,3,644816,657147
+52,Semi-Urban,Working Professional,1,2,Yes,Yes,1,683460,699168
+43,Rural,Retired,3,2,No,No,4,660990,674123
+53,Urban,Working Professional,3,2,Yes,Yes,1,766528,615978
+23,Urban,Working Professional,4,3,Yes,Yes,4,640160,749407
+38,Semi-Urban,Retired,2,5,Yes,No,2,744684,660591
+45,Semi-Urban,Working Professional,4,4,Yes,Yes,1,744647,701015
+51,Rural,Working Professional,2,4,No,Yes,5,791481,643931
+23,Urban,Working Professional,3,3,Yes,Yes,2,679515,671334
+44,Semi-Urban,Working Professional,3,2,Yes,No,4,735616,683578
+52,Urban,Retired,4,3,No,No,2,814082,698727
+42,Urban,Working Professional,5,3,Yes,No,1,669117,692294
+43,Urban,Business Owner,4,1,No,No,3,623247,684887
+22,Rural,Working Professional,2,5,Yes,Yes,3,605999,637396
+47,Semi-Urban,Working Professional,4,4,No,Yes,4,735635,627130
+22,Semi-Urban,Student,1,2,Yes,No,4,605842,663304
+46,Urban,Working Professional,2,4,Yes,Yes,3,681384,687325
+37,Rural,Working Professional,2,4,No,Yes,4,721865,641091
+53,Urban,Business Owner,5,5,No,Yes,2,709258,692606
+29,Rural,Working Professional,3,4,No,Yes,5,721272,708104
+59,Urban,Retired,2,4,Yes,No,5,711114,613347
+49,Urban,Working Professional,3,3,No,Yes,2,763943,616523
+46,Urban,Business Owner,4,5,No,Yes,5,652384,644384
+55,Urban,Business Owner,1,1,Yes,Yes,1,666150,662304
+45,Semi-Urban,Business Owner,5,2,No,No,2,661367,629017
+44,Semi-Urban,Business Owner,3,4,No,Yes,4,741509,704088
+33,Urban,Business Owner,2,2,Yes,Yes,2,745019,666962
+27,Rural,Working Professional,3,1,Yes,No,3,722561,651577
+56,Urban,Working Professional,2,2,Yes,No,4,759174,592563
+40,Semi-Urban,Student,3,1,Yes,Yes,3,641097,597367
+21,Rural,Retired,2,3,Yes,Yes,4,783361,661240
+28,Semi-Urban,Working Professional,4,4,Yes,Yes,5,776161,564696
+36,Urban,Business Owner,2,1,Yes,Yes,2,736781,690505
+34,Rural,Working Professional,2,2,Yes,Yes,1,789089,643673
+32,Semi-Urban,Working Professional,1,4,Yes,Yes,4,617168,779723
+43,Urban,Working Professional,2,3,No,Yes,4,673777,742316
+35,Urban,Working Professional,1,4,No,Yes,3,663234,642742
+48,Semi-Urban,Working Professional,5,1,Yes,No,5,736073,645746
+54,Semi-Urban,Working Professional,1,3,No,No,3,647492,689823
+22,Semi-Urban,Working Professional,4,2,Yes,No,3,737874,718126
+52,Rural,Student,1,3,Yes,Yes,5,768526,584478
+43,Semi-Urban,Working Professional,5,3,Yes,Yes,1,734760,578544
+42,Urban,Working Professional,4,5,Yes,No,3,714187,625118
+45,Urban,Business Owner,3,3,No,Yes,3,650606,673309
+42,Urban,Working Professional,3,3,No,Yes,4,657657,669874
+42,Semi-Urban,Working Professional,1,4,Yes,Yes,5,762480,692790
+26,Urban,Student,1,2,Yes,No,2,738967,602012
+35,Semi-Urban,Student,5,4,Yes,No,1,698049,557354
+57,Semi-Urban,Working Professional,5,4,Yes,Yes,1,679104,684320
+53,Rural,Working Professional,2,1,Yes,Yes,5,598709,616872
+28,Urban,Working Professional,5,4,Yes,No,4,646457,569260
+25,Rural,Working Professional,2,5,No,Yes,4,795570,655802
+59,Urban,Working Professional,4,5,No,No,5,635977,681727
+24,Rural,Business Owner,1,1,Yes,No,4,709473,645117
+26,Urban,Business Owner,4,2,No,No,1,750372,631686
+52,Urban,Student,5,2,Yes,Yes,1,637253,643625
+50,Semi-Urban,Working Professional,4,4,Yes,Yes,2,709235,635176
+55,Urban,Working Professional,4,4,Yes,Yes,5,746895,596078
+36,Urban,Working Professional,4,4,Yes,No,3,700624,621412
+33,Semi-Urban,Retired,5,2,No,No,3,843420,670851
+50,Semi-Urban,Working Professional,4,3,Yes,Yes,2,616570,662867
+39,Semi-Urban,Working Professional,2,5,Yes,Yes,2,752936,656722
+37,Semi-Urban,Working Professional,5,3,Yes,No,4,691359,610194
+39,Semi-Urban,Business Owner,4,3,Yes,No,2,738596,642739
+48,Urban,Working Professional,5,2,No,No,2,722065,562917
+46,Urban,Student,3,3,Yes,Yes,3,663342,657139
+57,Urban,Working Professional,2,1,Yes,Yes,4,711449,707154
+46,Rural,Working Professional,4,4,Yes,No,2,607104,591034
+43,Semi-Urban,Student,3,1,Yes,No,2,730162,626562
+29,Urban,Working Professional,3,5,Yes,Yes,4,714907,663164
+32,Urban,Student,5,4,Yes,Yes,5,731933,700113
+21,Rural,Student,3,3,Yes,Yes,4,752905,632071
+21,Urban,Working Professional,2,5,No,Yes,3,718380,622309
+54,Semi-Urban,Working Professional,2,4,No,Yes,5,707404,571243
+52,Semi-Urban,Working Professional,1,3,No,No,1,655946,654137
+45,Semi-Urban,Working Professional,2,1,Yes,Yes,4,664388,731683
+21,Urban,Business Owner,3,4,Yes,No,3,759336,661094
+36,Rural,Working Professional,2,3,Yes,Yes,5,771816,649108
+59,Rural,Working Professional,5,1,No,No,4,688094,662883
+25,Semi-Urban,Working Professional,1,5,Yes,No,2,702300,649556
+42,Semi-Urban,Working Professional,3,5,Yes,Yes,4,654769,617479
+49,Rural,Business Owner,1,5,Yes,Yes,1,758637,682931
+23,Semi-Urban,Student,3,5,Yes,Yes,4,733270,659030
+32,Urban,Retired,5,2,Yes,Yes,5,797060,650704
+46,Semi-Urban,Student,1,4,Yes,No,5,656083,610985
+36,Semi-Urban,Working Professional,4,4,No,No,4,681099,702140
+57,Urban,Business Owner,3,2,Yes,Yes,5,711572,676588
+42,Semi-Urban,Business Owner,4,3,Yes,Yes,2,732324,627883
+49,Rural,Business Owner,1,3,Yes,Yes,4,689216,690072
+34,Rural,Business Owner,4,5,Yes,No,2,656351,630097
+48,Urban,Working Professional,4,1,Yes,Yes,2,744070,618719
+25,Urban,Business Owner,1,3,No,Yes,3,736056,619611
+50,Rural,Student,5,1,Yes,No,4,654186,579157
+25,Rural,Business Owner,4,4,No,No,5,767772,668861
+32,Urban,Working Professional,4,1,Yes,Yes,2,758509,576754
+36,Rural,Business Owner,5,4,Yes,No,3,706714,600862
+46,Rural,Working Professional,4,2,No,Yes,4,703979,566976
+46,Semi-Urban,Working Professional,4,2,Yes,Yes,4,727702,646557
+41,Semi-Urban,Working Professional,4,5,Yes,No,1,656914,643987
+59,Urban,Business Owner,2,3,Yes,No,1,701501,636932
+56,Urban,Student,5,5,Yes,Yes,2,592380,608296
+53,Urban,Student,4,4,No,Yes,1,743822,603110
+50,Rural,Working Professional,5,5,Yes,Yes,2,621925,668574
+57,Urban,Working Professional,3,1,No,Yes,5,775170,627977
+43,Urban,Business Owner,3,4,No,Yes,2,683493,662654
+30,Urban,Working Professional,4,2,Yes,Yes,1,689416,614590
+25,Semi-Urban,Retired,5,3,No,Yes,5,668613,657242
+56,Rural,Working Professional,5,4,Yes,No,1,685598,702131
+54,Urban,Working Professional,5,4,No,No,2,770926,673446
+51,Urban,Business Owner,2,1,Yes,No,3,575609,633503
+30,Semi-Urban,Working Professional,3,3,Yes,Yes,4,763848,660287
+39,Urban,Working Professional,5,2,Yes,No,1,716901,640373
+52,Urban,Working Professional,5,4,Yes,No,2,639648,650315
+21,Urban,Business Owner,2,4,Yes,No,5,646234,636975
+25,Urban,Working Professional,2,1,No,No,1,783819,643426
+24,Urban,Retired,5,5,Yes,No,1,652724,658483
+36,Urban,Retired,1,2,Yes,Yes,4,642332,610265
+44,Urban,Working Professional,5,3,No,Yes,2,756865,609364
+36,Rural,Working Professional,5,4,Yes,No,3,716927,594458
+22,Urban,Working Professional,2,4,No,No,5,653103,585989
+48,Semi-Urban,Student,2,2,No,No,2,710831,601308
+52,Semi-Urban,Student,5,5,No,Yes,5,648712,656378
+47,Urban,Working Professional,5,4,No,Yes,1,755041,614288
+40,Semi-Urban,Working Professional,5,2,Yes,Yes,4,753068,670544
+44,Urban,Business Owner,2,1,Yes,No,4,726600,651388
+32,Rural,Business Owner,5,5,No,Yes,3,718083,571259
+55,Urban,Business Owner,5,3,Yes,Yes,4,788059,676199
+53,Urban,Working Professional,4,4,Yes,Yes,1,699984,682431
+53,Urban,Working Professional,1,2,Yes,Yes,3,640906,610245
+57,Rural,Working Professional,3,1,No,No,2,722473,666807
+32,Semi-Urban,Retired,1,3,Yes,No,4,804302,615740
+23,Semi-Urban,Student,4,2,Yes,No,3,649262,653906
+21,Urban,Business Owner,3,2,Yes,Yes,1,681926,599420
+53,Semi-Urban,Working Professional,5,3,Yes,No,5,720822,578275
+30,Urban,Working Professional,4,1,Yes,Yes,5,697304,634687
+49,Rural,Business Owner,5,1,Yes,No,1,650884,645050
+33,Urban,Working Professional,2,5,Yes,Yes,1,756092,634092
+32,Urban,Business Owner,4,4,No,Yes,5,816002,602638
+51,Urban,Retired,2,3,Yes,No,3,709806,634004
+22,Urban,Working Professional,4,3,No,No,5,654796,660771
+55,Semi-Urban,Working Professional,4,3,No,Yes,1,622551,648204
+43,Urban,Working Professional,2,1,Yes,No,4,712898,657300
+37,Semi-Urban,Retired,3,4,Yes,Yes,2,755193,623195
+46,Urban,Working Professional,1,5,Yes,Yes,4,723758,696868
+28,Semi-Urban,Working Professional,5,2,No,Yes,4,699879,602953
+49,Urban,Working Professional,4,2,Yes,Yes,1,670536,669502
+46,Urban,Business Owner,5,3,Yes,Yes,5,645391,697275
+30,Semi-Urban,Working Professional,2,4,Yes,Yes,3,741737,669236
+46,Urban,Business Owner,5,1,Yes,Yes,4,745688,641899
+54,Urban,Retired,2,4,Yes,No,5,622713,628868
+27,Rural,Working Professional,5,4,Yes,Yes,3,779491,691443
+24,Rural,Working Professional,1,1,No,No,4,728703,593081
+31,Urban,Retired,1,3,Yes,Yes,3,769979,611195
+49,Urban,Working Professional,1,4,Yes,No,5,632893,634097
+56,Semi-Urban,Business Owner,1,2,Yes,Yes,2,631708,699506
+45,Urban,Working Professional,1,1,No,Yes,5,692551,665190
+41,Urban,Working Professional,1,5,Yes,Yes,1,725139,611278
+56,Urban,Business Owner,2,3,No,Yes,3,789818,637587
+30,Semi-Urban,Working Professional,4,1,Yes,Yes,2,735303,625427
+57,Semi-Urban,Working Professional,5,5,Yes,No,3,687865,621608
+29,Urban,Working Professional,1,5,Yes,No,3,648681,689155
+44,Urban,Working Professional,2,4,Yes,No,4,761500,595130
+55,Urban,Working Professional,2,4,Yes,No,1,651764,714351
+55,Semi-Urban,Working Professional,2,4,Yes,Yes,3,781423,683129
+56,Urban,Retired,4,1,No,Yes,5,685780,693634
+38,Urban,Working Professional,5,1,Yes,Yes,5,779529,631482
+59,Semi-Urban,Working Professional,4,3,Yes,Yes,4,733946,644002
+52,Urban,Working Professional,3,4,Yes,Yes,1,693150,592673
+44,Semi-Urban,Business Owner,2,5,Yes,Yes,1,674030,629013
+43,Urban,Working Professional,3,2,Yes,Yes,5,682954,669746
+52,Urban,Retired,1,3,Yes,Yes,2,721415,701842
+57,Urban,Working Professional,1,1,Yes,No,4,703857,605713
+32,Semi-Urban,Working Professional,4,3,Yes,No,4,670309,635379
+33,Rural,Student,5,3,Yes,Yes,5,691718,643948
+43,Rural,Working Professional,3,3,Yes,No,5,703928,594168
+45,Urban,Working Professional,5,3,Yes,No,2,593563,673653
+55,Semi-Urban,Working Professional,4,2,Yes,Yes,2,722908,621040
+50,Urban,Business Owner,1,4,No,Yes,1,651013,642184
+37,Urban,Working Professional,5,5,Yes,Yes,4,642333,631922
+40,Rural,Working Professional,5,3,Yes,No,4,615632,618426
+45,Urban,Working Professional,1,3,Yes,No,5,610305,649718
+42,Urban,Business Owner,3,3,No,Yes,1,632227,641375
+33,Urban,Working Professional,1,4,No,Yes,4,664548,635125
+39,Urban,Working Professional,5,1,Yes,Yes,1,797662,620861
+56,Urban,Student,3,1,No,Yes,1,673706,662780
+32,Semi-Urban,Business Owner,3,2,Yes,Yes,5,708887,716144
+39,Urban,Working Professional,1,1,Yes,No,1,720024,655595
+32,Rural,Working Professional,5,3,No,No,2,706553,689844
+29,Rural,Business Owner,4,3,No,No,2,696127,594391
+27,Urban,Business Owner,5,3,Yes,No,3,640235,656310
+48,Urban,Working Professional,2,2,Yes,No,5,772546,606105
+34,Urban,Business Owner,4,3,Yes,Yes,3,790359,590923
+51,Semi-Urban,Working Professional,3,1,Yes,No,2,615867,620425
+39,Urban,Working Professional,4,4,No,Yes,3,648798,697675
+36,Semi-Urban,Working Professional,3,4,Yes,No,5,686009,688000
+25,Urban,Student,3,5,Yes,Yes,5,651773,659720
+55,Semi-Urban,Working Professional,4,1,Yes,No,1,725298,588691
+32,Urban,Retired,3,3,Yes,Yes,4,663586,642148
+45,Urban,Student,3,4,Yes,Yes,1,808252,662068
+41,Rural,Working Professional,2,1,Yes,Yes,5,759527,657021
+56,Semi-Urban,Working Professional,5,4,No,Yes,2,710628,576248
+43,Urban,Retired,5,3,No,No,2,751349,614387
+36,Rural,Working Professional,2,4,Yes,No,1,755295,647436
+59,Urban,Working Professional,4,5,No,Yes,5,671802,671451
